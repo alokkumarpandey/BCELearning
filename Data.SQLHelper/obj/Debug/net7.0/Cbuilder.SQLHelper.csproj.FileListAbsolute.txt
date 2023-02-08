@@ -1,0 +1,12 @@
+D:\MDemo\LiveClass\WebEcommerce\Cbuilder.SQLHelper\obj\Debug\net7.0\Cbuilder.SQLHelper.csproj.AssemblyReference.cache
+D:\MDemo\LiveClass\WebEcommerce\Cbuilder.SQLHelper\obj\Debug\net7.0\Cbuilder.SQLHelper.GeneratedMSBuildEditorConfig.editorconfig
+D:\MDemo\LiveClass\WebEcommerce\Cbuilder.SQLHelper\obj\Debug\net7.0\Cbuilder.SQLHelper.AssemblyInfoInputs.cache
+D:\MDemo\LiveClass\WebEcommerce\Cbuilder.SQLHelper\obj\Debug\net7.0\Cbuilder.SQLHelper.AssemblyInfo.cs
+D:\MDemo\LiveClass\WebEcommerce\Cbuilder.SQLHelper\obj\Debug\net7.0\Cbuilder.SQLHelper.csproj.CoreCompileInputs.cache
+D:\MDemo\LiveClass\WebEcommerce\Cbuilder.SQLHelper\bin\Debug\net7.0\Cbuilder.SQLHelper.deps.json
+D:\MDemo\LiveClass\WebEcommerce\Cbuilder.SQLHelper\bin\Debug\net7.0\Cbuilder.SQLHelper.dll
+D:\MDemo\LiveClass\WebEcommerce\Cbuilder.SQLHelper\bin\Debug\net7.0\Cbuilder.SQLHelper.pdb
+D:\MDemo\LiveClass\WebEcommerce\Cbuilder.SQLHelper\obj\Debug\net7.0\Cbuilder.SQLHelper.dll
+D:\MDemo\LiveClass\WebEcommerce\Cbuilder.SQLHelper\obj\Debug\net7.0\refint\Cbuilder.SQLHelper.dll
+D:\MDemo\LiveClass\WebEcommerce\Cbuilder.SQLHelper\obj\Debug\net7.0\Cbuilder.SQLHelper.pdb
+D:\MDemo\LiveClass\WebEcommerce\Cbuilder.SQLHelper\obj\Debug\net7.0\ref\Cbuilder.SQLHelper.dll
